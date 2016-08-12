@@ -1,0 +1,82 @@
+
+.jumbo {
+	background-image:url('./truck1600.JPG');
+	background-repeat: no-repeat;
+	background-position: center center;
+	/*background-attachment: fixed;*/
+	background-size: cover;
+	min-height: 700px;
+
+}
+
+.jumbo .container {
+  position: relative;
+  top:500px;
+
+}
+
+.jumbo h1{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Permanent Marker';
+	color: #dde0dc;
+	font-size: 75px;
+	/*position: absolute;
+	padding-top: 300px;*/
+	/*padding-left: 25px;*/
+	text-shadow: 2px 2px 2px #000000;
+}
+
+.spacer {
+	background-color: #2E2E2E;
+	height: 1px;
+	position: relative;
+}
+.body {
+	background-color: #F2F2F2;
+}
+
+.body h3{
+padding-bottom: 10px;
+font-family: 'Permanent Marker';
+text-align: center;
+font-size: 35px;
+color: #151515;
+}
+
+.body .text {
+	position: relative;
+	color: #151515;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 110px;
+	padding-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.journey{
+background-color: #2E2E2E ;
+min-height: 200px;
+position: relative;
+
+}
+.journey h4{
+	padding-bottom: 10px;
+	font-family: 'Permanent Marker';
+	text-align: center;
+	font-size: 45px;
+	color: #dde0dc;
+	padding-top: 70px;
+	margin: 0;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.fullwidth {
+	width: 100% !important;
+}
